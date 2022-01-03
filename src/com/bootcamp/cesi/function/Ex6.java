@@ -5,7 +5,6 @@ public class Ex6 {
         System.out.println(calcul(10));
         System.out.println(calcul(10.5));
         System.out.println(calcul(10, 20));
-
     }
 
     public static int calcul(int x){
